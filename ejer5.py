@@ -54,7 +54,6 @@ elif resp == 4:
     y = img_height - nuevo_alto - margen
 else:
     print("Error: Opción no válida.")
-    exit()
     
 if marca_Agua.mode != 'RGBA':
     marca_Agua = marca_Agua.convert('RGBA')

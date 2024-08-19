@@ -1,9 +1,7 @@
 from PIL import Image
 import pprint, os
 
-directory = 'images'
-
-print("Ingresa la ruta del archivo de imagen (dentro de la carpeta 'images'):")
+print("Ingresa la ruta del archivo de la imagen :")
 ruta = input()
 
 newruta = os.path.join(ruta)
