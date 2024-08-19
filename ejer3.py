@@ -1,9 +1,7 @@
 from PIL import Image
 import os
 
-#directory = "images"
-
-print("Ingresa el nombre del archivo de imagen (dentro de la carpeta 'images'):")
+print("Ingresa el nombre del archivo de la imagen:")
 ruta = input()
 
 print("Ingresa el ángulo de rotación:")
