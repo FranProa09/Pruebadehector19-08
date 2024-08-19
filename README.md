@@ -1,0 +1,1 @@
+Las imagenes se tienen que ubicar en una carpeta(del nombre que quieras) ahi cargue unas imagenes para facilitar el trabajo. pero con cualquier imagen funciona(siempre y cuando las pongas en una carpeta)
